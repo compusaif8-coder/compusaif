@@ -1,0 +1,43 @@
+# Robots.txt for كمبيو سيف - Compu Saif Store
+# Allow all search engines (Googlebot, Bingbot, etc.) to crawl and index
+
+User-agent: *
+Allow: /
+Allow: /products
+Allow: /product/*
+Allow: /works
+Allow: /locations
+Allow: /about
+Allow: /careers
+Allow: /faq
+Allow: /delivery
+
+# Disallow admin and private pages
+Disallow: /admin*
+Disallow: /dashboard*
+Disallow: /cashier*
+Disallow: /settings*
+Disallow: /attendance*
+Disallow: /api/*
+Disallow: /my-orders
+Disallow: /orders
+Disallow: /analytics
+Disallow: /profit-analysis
+
+# Allow crawling of icons and static assets for Google Favicon and Search Snippets
+Allow: /favicon.png
+Allow: /favicon.ico
+Allow: /site.webmanifest
+Allow: /manifest.json
+Allow: /logo.png
+Allow: /logo2.webp
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.css$
+Allow: /*.js$
+
+# Official Sitemap location on custom domain
+Sitemap: https://www.compusaif.com/sitemap.xml

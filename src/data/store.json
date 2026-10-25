@@ -1,0 +1,796 @@
+{
+  "products": [
+    {
+      "id": "test-product-9500",
+      "name": "Test Product 9500",
+      "brand": "Test Brand",
+      "price": 9500,
+      "category": "test",
+      "subcategory": "test",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/21/7706311/1.jpg?8886"
+      ],
+      "description": "Test product with 9500 price and 5.26% discount",
+      "specialOffer": true,
+      "discountPercentage": 5.26,
+      "discountPrice": 9000,
+      "offerEndsAt": "2025-12-31T23:59:59.000Z",
+      "isArchived": false,
+      "createdAt": "2025-09-08T12:00:00.000Z",
+      "wholesaleInfo": {
+        "supplierName": "Test Supplier",
+        "supplierPhone": "01000000000",
+        "supplierEmail": "test@test.com",
+        "supplierLocation": "Test Location",
+        "purchasePrice": 8000,
+        "minimumOrderQuantity": 1,
+        "notes": "Test product",
+        "purchasedQuantity": 10
+      }
+    },
+    {
+      "id": "338c3a6e-02d4-499a-b89b-9ee023860949",
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "price": 12000,
+      "category": "desktop",
+      "subcategory": "CPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhphbajo1TLe4rTDk_57b9vjD1Zz0svjXgg&s"
+      ],
+      "description": "<p>AMD Ryzen 9 7950X مع 16 نواة و 32 خيط</p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T09:49:26.904Z",
+      "wholesaleInfo": {
+        "supplierName": "سس",
+        "supplierPhone": "010244994",
+        "supplierEmail": "بلي",
+        "supplierLocation": "سشسيؤ",
+        "purchasePrice": 5,
+        "minimumOrderQuantity": 50,
+        "notes": "",
+        "purchasedQuantity": 5
+      }
+    },
+    {
+      "id": "9e45967a-218c-4a10-9a85-eb8c5b5f28ad",
+      "name": "Intel Core i7-14700KF",
+      "brand": "Intel",
+      "price": 14000,
+      "category": "desktop",
+      "subcategory": "CPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://elmatjr.com/wp-content/uploads/2024/04/Intel-Core-i7-14700KF.jpg"
+      ],
+      "description": "<p><strong>المعالج: Intel Core i7-14700KF</strong></p><p><br></p><p><br></p><ol><li><strong>المعمارية:</strong> Raptor Lake – الجيل الرابع عشر من إنتل</li><li><strong>عدد الأنوية:</strong> 20 نواة (8 أنوية أداء P-Cores + 12 أنوية كفاءة E-Cores)</li><li><strong>عدد الخيوط (Threads):</strong> 28 خيط معالجة</li><li><strong>السرعة الأساسية:</strong> 3.4GHz</li><li><strong>السرعة القصوى:</strong> تصل إلى 5.6GHz مع تقنية Intel® Turbo Boost Max 3.0</li><li><strong>السوكيت:</strong> LGA 1700</li><li><strong>الذاكرة المدعومة:</strong> DDR4 حتى 3200MHz وDDR5 حتى 5600MHz</li><li><strong>الكاش:</strong></li><li>L2 Cache: 28MB</li><li>L3 Cache: 33MB</li><li><strong>مفتوح لكسر السرعة (Unlocked):</strong> نعم</li><li><strong>كرت شاشة مدمج:</strong> غير مدمج (يتطلب بطاقة رسومية منفصلة)</li><li><strong>دعم تقنيات:</strong></li><li>Intel® Thread Director</li><li>Intel® Deep Learning Boost</li><li>Intel® Adaptive Boost Technology</li><li><strong>الاستطاعة الحرارية (TDP):</strong> 125W (قد تصل إلى أكثر في وضع التربو)</li></ol>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T09:52:17.792Z",
+      "wholesaleInfo": {
+        "supplierName": "Intel Egypt",
+        "supplierPhone": "01087654321",
+        "supplierEmail": "intel@egypt.com",
+        "supplierLocation": "الإسكندرية",
+        "purchasePrice": 12000,
+        "minimumOrderQuantity": 1,
+        "quantity": 12,
+        "notes": "معالج إنتل الجيل الرابع عشر",
+        "purchasedQuantity": 400
+      }
+    },
+    {
+      "id": "67076607-cb60-48d0-a7cc-293e0856dcb4",
+      "name": "HP Laptop I3-1315U",
+      "brand": "HP",
+      "price": 9500,
+      "category": "laptop",
+      "subcategory": "Core i3",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/21/7706311/1.jpg?8886"
+      ],
+      "description": "<h2>💻 <strong>HP Laptop 15-fd0033ne</strong> – أنيق وعملي</h2><h2><strong>المواصفات الفنية:</strong></h2><ol><li>🔹 <strong>المعالج:</strong> Intel® Core™ i3-1315U – الجيل الثالث عشر</li><li>🔹 <strong>الرام:</strong> 4 جيجابايت</li><li>🔹 <strong>التخزين:</strong> 256 جيجابايت SSD</li><li>🔹 <strong>كرت الشاشة:</strong> Intel® UHD Graphics</li><li>🔹 <strong>الشاشة:</strong> 15.6 بوصة – FHD (دقة 1920 × 1080)</li><li>🔹 <strong>نظام التشغيل:</strong> DOS (بدون نظام تشغيل مثبت)</li><li>🔹 <strong>اللون:</strong> فضي (Silver)</li></ol><p><br></p><p><strong>مميزات إضافية:</strong></p><p><br></p><p><br></p><ol><li>تصميم أنيق وخفيف الوزن</li><li>أداء مناسب للاستخدام اليومي والدراسة</li><li>سعة تخزين سريعة من نوع SSD</li></ol>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T09:55:21.991Z",
+      "wholesaleInfo": {
+        "supplierName": "HP Egypt",
+        "supplierPhone": "01098765432",
+        "supplierEmail": "hp@egypt.com",
+        "supplierLocation": "الجيزة",
+        "purchasePrice": 7500,
+        "minimumOrderQuantity": 1,
+        "quantity": 8,
+        "notes": "لابتوب HP للاستخدام المكتبي",
+        "purchasedQuantity": 4500
+      }
+    },
+    {
+      "id": "15e474ce-1fe9-4b96-835b-d253e49af592",
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "brandImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Generic_brand_logo.svg/1200px-Generic_brand_logo.svg.png",
+      "price": 14000,
+      "category": "desktop",
+      "subcategory": "CPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhphbajo1TLe4rTDk_57b9vjD1Zz0svjXgg&s"
+      ],
+      "description": "AMD Ryzen 9 7950X مع 16 نواة و 32 خيط",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T10:53:38.669Z",
+      "wholesaleInfo": {
+        "supplierName": "AMD Egypt",
+        "supplierPhone": "01012345678",
+        "supplierEmail": "amd@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 12000,
+        "minimumOrderQuantity": 1,
+        "quantity": 10,
+        "notes": "معالج AMD عالي الأداء"
+      }
+    },
+    {
+      "id": "b428bccd-f121-4a69-bc57-0448a7a3f8e3",
+      "name": "شاشة ألعاب UltraGear حجم 27 بوصة وتحديث 165 هرتز",
+      "brand": "LG",
+      "price": 7000,
+      "category": "monitor",
+      "subcategory": "27-inch",
+      "color": "#000000",
+      "size": "",
+      "images": [
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-1.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-5.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-6.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-4.jpg"
+      ],
+      "description": "<h3>🖥️ <strong>شاشة ألعاب احترافية 27 بوصة – QHD</strong></h3><p><strong>المواصفات الفنية:</strong></p><ul><li>📏 <strong>المقاس:</strong> 27 بوصة</li><li>🖼️ <strong>الدقة:</strong> QHD (2560 × 1440)</li><li>🔄 <strong>معدل التحديث:</strong> 165 هرتز</li><li>⚡ <strong>زمن الاستجابة:</strong> 1 مللي ثانية (GtG)</li><li>🔍 <strong>لوحة العرض:</strong> IPS</li><li>🌈 <strong>HDR:</strong> تدعم HDR10</li><li>🎨 <strong>نطاق الألوان:</strong> sRGB بنسبة 99% (المعدل النموذجي)</li></ul><p><strong>التقنيات المدعومة:</strong></p><p><br></p><ul><li>✅ <strong>تقنية AMD FreeSync™ Premium</strong></li><li>✅ <strong>متوافقة مع تقنية NVIDIA® G-SYNC®</strong></li></ul><p><br></p>",
+      "specialOffer": true,
+      "discountPercentage": 29,
+      "offerEndsAt": "2025-12-31T23:59:59.000Z",
+      "isArchived": false,
+      "createdAt": "2025-06-09T16:03:25.305Z",
+      "wholesaleInfo": {
+        "supplierName": "LG Egypt",
+        "supplierPhone": "01011223344",
+        "supplierEmail": "lg@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 5500,
+        "minimumOrderQuantity": 1,
+        "quantity": 20,
+        "notes": "شاشة ألعاب احترافية"
+      }
+    },
+    {
+      "id": "cfcf862a-ed6c-4057-b3b5-82ff59706ecd",
+      "name": "شاشة ألعاب OLED منحنية UltraGear مقاس 45 بوصة بدقة WQHD",
+      "brand": "LG",
+      "price": 22000,
+      "category": "monitor",
+      "subcategory": "45-inch",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-1.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-5.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-4.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-3.jpg"
+      ],
+      "description": "<h2><strong>🖥️ المواصفات الأساسية:</strong></h2><ol><li>الحجم: <strong>45 بوصة</strong></li><li>النوع: <strong>WQHD OLED</strong></li><li>الدقة: <strong>3440 × 1440</strong></li><li>نسبة العرض إلى الارتفاع: <strong>21:9</strong></li><li>الانحناء: <strong>منحني بزاوية 800R</strong></li><li>معدل التحديث: <strong>240Hz</strong></li><li>زمن الاستجابة: <strong>0.03 مللي ثانية (Gray to Gray - GTG)</strong></li><li>نسبة التباين: <strong>1,500,000:1</strong></li><li>⚙️ <strong>تقنيات العرض المدعومة:</strong></li><li>✅ <strong>NVIDIA G-Sync® Compatible</strong></li><li>✅ <strong>تقنية AMD FreeSync™ Premium</strong></li></ol>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T16:26:37.035Z",
+      "wholesaleInfo": {
+        "supplierName": "LG Egypt",
+        "supplierPhone": "01011223344",
+        "supplierEmail": "lg@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 18000,
+        "minimumOrderQuantity": 1,
+        "quantity": 5,
+        "notes": "شاشة OLED منحنية فاخرة"
+      }
+    },
+    {
+      "id": "504aa8bd-a6d7-4535-a06d-e66ce74a48bb",
+      "name": "Gigabyte GeForce RTX 4090 Gaming OC 24G Graphics Card, 3X WINDFORCE Fans, 24GB 384-bit GDDR6X, GV-N4090GAMING OC-24GD Video Card",
+      "brand": "NVIDIA",
+      "price": 180750,
+      "category": "desktop",
+      "subcategory": "GPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/711vU2IrEuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713fzuOGfeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616BIYVLsQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71R1xDmLbYL._AC_SL1500_.jpg"
+      ],
+      "description": "<ul><li>Capacity: 512GB</li><li>Read speed up to 2500MB/s</li><li>PCIe 3.0 NVMe Technology</li><li>3D NAND technology helps to develop higher capacity</li><li>and performance.</li><li>Easy Installation</li><li>Widely Compatible</li><li>Format: M.2 2280</li><li>Interface: PCIe 3.0</li><li>Aligned Random Read: up to 55K IOPs</li><li>Aligned Random Write: up to 225K IOPs</li><li>Sequential Read (CDM): up to 2500 MB</li></ul>",
+      "specialOffer": true,
+      "discountPercentage": 17,
+      "offerEndsAt": "2025-12-31T23:59:59.000Z",
+      "isArchived": false,
+      "createdAt": "2025-06-09T16:58:19.095Z",
+      "wholesaleInfo": {
+        "supplierName": "Gigabyte Egypt",
+        "supplierPhone": "01055667788",
+        "supplierEmail": "gigabyte@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 150000,
+        "minimumOrderQuantity": 1,
+        "quantity": 3,
+        "notes": "كرت شاشة RTX 4090 فاخر"
+      }
+    },
+    {
+      "id": "90f0396a-1fe9-4b96-835b-d253e49af592",
+      "name": "Hiksemi هارد ديسك ويف، PCIe 3.0، NVMe M.2، SSD، داخلي للكمبيوتر الشخصي، 512 جيجا، أسود، HS-SSD-WAVE(P)",
+      "brand": "Hiksemi",
+      "price": 2500,
+      "category": "storage",
+      "subcategory": "M.2 SSD",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/37/8858721/1.jpg?2942",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/37/8858721/2.jpg?2942"
+      ],
+      "description": "<h2>مواصفات المنتج</h2><ul><li>Capacity: 512GB</li><li>Read speed up to 2500MB/s</li><li>PCIe 3.0 NVMe Technology</li><li>3D NAND technology helps to develop higher capacity</li><li>and performance.</li><li>Easy Installation</li><li>Widely Compatible</li><li>Format: M.2 2280</li><li>Interface: PCIe 3.0</li><li>Aligned Random Read: up to 55K IOPs</li><li>Aligned Random Write: up to 225K IOPs</li><li>Sequential Read (CDM): up to 2500 MB</li></ul><p><br></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T22:08:24.326Z",
+      "wholesaleInfo": {
+        "supplierName": "Hiksemi Egypt",
+        "supplierPhone": "01099887766",
+        "supplierEmail": "hiksemi@egypt.com",
+        "supplierLocation": "الإسكندرية",
+        "purchasePrice": 2000,
+        "minimumOrderQuantity": 5,
+        "quantity": 50,
+        "notes": "SSD سريع للكمبيوتر"
+      }
+    },
+    {
+      "id": "c639bc2e-007c-499c-91bf-7ae3de33c191",
+      "name": "MSI thin B12UCX- CPU Alder Lake i5 12450H- RAM 8G DDR5 (3200MHz) - 512GB NVMe PCIe SSD- VGA RTX 2050 GDDR6 4GB- FHD 144Hz IPS -Blue Backlit 2 Yr - Cosmos Gray-( 9S7-16R831-2616 )",
+      "brand": "MSI",
+      "price": 31000,
+      "category": "laptop",
+      "subcategory": "Core i5 12Gen",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/6894821/1.jpg?8723",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/6894821/3.jpg?8723",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/6894821/4.jpg?1439"
+      ],
+      "description": "<h3>💻 <strong>لابتوب MSI THIN B12UCX</strong></h3><p><strong>الموديل:</strong> 9S7–16R831–2616</p><p><strong>اللون:</strong> Cosmos Gray</p><p><br></p><p><br></p><p><br></p><h3>🔧 <strong>المواصفات التقنية</strong></h3><ul><li><strong>المعالج (CPU):</strong></li><li>حتى الجيل الثاني عشر من Intel® Core™ i7</li><li><strong>كرت الشاشة (GPU):</strong></li><li>NVIDIA® GeForce RTX™ 2050 – سعة 4 جيجابايت GDDR6</li><li><strong>الذاكرة (RAM):</strong></li><li>DDR4 بسرعة 3200MHz – قابل للترقية حتى 64 جيجابايت</li><li><strong>الشاشة:</strong></li><li>15.6 بوصة – FHD (1920 × 1080)</li><li><strong>نظام التشغيل:</strong></li><li>Windows 11 Home</li></ul><h3>💾 <strong>التخزين</strong></h3><ul><li>منفذ SSD نوع M.2 (NVMe PCIe Gen4)</li><li>منفذ 2.5 بوصة لـ SATA HDD</li></ul><h3>📦 <strong>محتويات العبوة</strong></h3><ul><li>1 × جهاز لابتوب</li><li>ملحقات التعبئة القياسية</li></ul><h3>ℹ️ <strong>تفاصيل إضافية</strong></h3><ul><li><strong>بلد الصنع:</strong> الصين</li><li><strong>المادة الأساسية:</strong> بلاستيك</li><li><strong>الشهادات:</strong> Organic</li><li><strong>نوع الضمان:</strong> صيانة من قبل البائع</li></ul>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T22:18:30.838Z",
+      "wholesaleInfo": {
+        "supplierName": "MSI Egypt",
+        "supplierPhone": "01033445566",
+        "supplierEmail": "msi@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 26000,
+        "minimumOrderQuantity": 1,
+        "quantity": 6,
+        "notes": "لابتوب ألعاب MSI",
+        "purchasedQuantity": 566
+      }
+    },
+    {
+      "id": "1ae1b95d-5272-40b0-b53a-217d93532060",
+      "name": "وحده تخزين SSD 870 EVO SATA III مقاس 2.5 بوصة",
+      "brand": "SAMSUNG",
+      "price": 2200,
+      "category": "storage",
+      "subcategory": "SATA SSD",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/ae_ar/mz-77e250bw/gallery/ae-ar-870-evo-sata-3-2-5-ssd-mz-77e250bw-537759192?$684_547_PNG$"
+      ],
+      "description": "<h3>💾 <strong>وحدة تخزين SSD – Samsung 870 EVO</strong></h3><p><strong>النوع:</strong> SATA III – <strong>المقاس:</strong> 2.5 بوصة – <strong>السعة:</strong> 256 جيجابايت</p><p><br></p><p><br></p><h3>⭐ <strong>المواصفات الأساسية:</strong></h3><ul><li>🧠 <strong>النوع:</strong> SSD داخلي</li><li>📏 <strong>المقاس:</strong> 2.5 بوصة</li><li>⚙️ <strong>واجهة التوصيل:</strong> SATA III (6 Gb/s)</li><li>🚀 <strong>السرعة:</strong></li><li>قراءة حتى 560 ميجابايت/ثانية</li><li>كتابة حتى 530 ميجابايت/ثانية</li><li>💾 <strong>السعة التخزينية:</strong> 256 جيجابايت</li><li>🔒 <strong>تقنيات الأمان:</strong> دعم لتشفير AES 256-bit</li><li>🧪 <strong>الاعتمادية:</strong> حتى 150TBW (متوسط عمر افتراضي ممتاز)</li></ul><h3>✅ <strong>المميزات:</strong></h3><ul><li>أداء فائق وسرعة استجابة عالية</li><li>مثالي لتسريع نظام التشغيل والألعاب والبرامج</li><li>استهلاك منخفض للطاقة</li><li>تصميم متين مقاوم للصدمات والاهتزاز</li><li>متوافق مع معظم أجهزة الكمبيوتر المكتبية والمحمولة</li></ul>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T23:22:15.823Z",
+      "wholesaleInfo": {
+        "supplierName": "Samsung Egypt",
+        "supplierPhone": "01077889900",
+        "supplierEmail": "samsung@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 1800,
+        "minimumOrderQuantity": 3,
+        "quantity": 30,
+        "notes": "SSD Samsung عالي الجودة"
+      }
+    },
+    {
+      "id": "f5ac6789-cd89-474c-bfe4-4eb4b2276603",
+      "name": "Razer Basilisk V3 - Wired Customisable Gaming Mouse (10+1 Programmable Buttons, HyperScroll Tilt Wheel, 11 Chroma RGB Lighting Zones, Optical Mouse Switches, Focus+ 26K DPI Optical Sensor) Black",
+      "brand": "Razer",
+      "price": 3000,
+      "category": "accessories",
+      "subcategory": "Mouse",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/61AcT0ZuO3L.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "https://m.media-amazon.com/images/I/61F+cwAobkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Y-Zb0WVtL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61apxCWQUgL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LmB1Vu1cL._AC_SL1500_.jpg"
+      ],
+      "description": "<h3>🎮 <strong>ماوس الألعاب Razer Basilisk V3 – تحكّم غير محدود بدقة احترافية</strong></h3><h4>🔘 <strong>10+1 زر قابل للبرمجة لتنفيذ لا نهائي للأوامر</strong></h4><p>قم بتخصيص كل ما تحتاجه من أوامر ماكرو ووظائف ثانوية عبر <strong>11 زرًا قابلاً للبرمجة</strong>، بما في ذلك الزر الجانبي المتعدد الوظائف الشهير.</p><p> مثالي لتفعيل أوامر مثل:</p><p> 🎙️ الضغط للتحدث – 📍 إرسال إشارة – ⚔️ التبديل بين الأسلحة والمزيد.</p><p><br></p><h4>🌀 <strong>عجلة تمرير Razer HyperScroll Tilt Wheel</strong></h4><ul><li><strong>الوضع السلس (Free-Spin):</strong> التمرير بسرعة عبر المحتوى الطويل</li><li><strong>الوضع اللمسي (Tactile):</strong> تحكم دقيق مع استجابة ملموسة، مثالي لتبديل المهارات أو الأسلحة</li></ul><h4>🌈 <strong>إضاءة Chroma RGB بـ 11 منطقة مختلفة</strong></h4><ul><li>أكثر من <strong>16.8 مليون لون</strong></li><li>إضاءة كاملة تحت الماوس</li><li>تفاعل ديناميكي مع أكثر من <strong>150 لعبة</strong> مدعومة من Razer Chroma</li></ul><h4>🖐️ <strong>تصميم مريح أيقوني مع مسند للإبهام</strong></h4><p>تصميم محبوب من ملايين المستخدمين حول العالم</p><p> ✅ دعم مريح لليد</p><p> ✅ أزرار مصممة لوصول سريع وسهل</p><p> ✅ مثالي لجلسات اللعب الطويلة</p><h4>⚡ <strong>مفاتيح ضوئية Razer الجيل الثاني</strong></h4><ul><li>سرعة استجابة مذهلة تبلغ <strong>0.2 مللي ثانية</strong></li><li>عمر يصل إلى <strong>70 مليون نقرة</strong></li><li>دقة فائقة بدون نقرات خاطئة</li></ul><p><br></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-10T00:22:16.409Z",
+      "wholesaleInfo": {
+        "supplierName": "Razer Egypt",
+        "supplierPhone": "01022334455",
+        "supplierEmail": "razer@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 2500,
+        "minimumOrderQuantity": 2,
+        "quantity": 25,
+        "notes": "ماوس ألعاب احترافي"
+      }
+    },
+    {
+      "id": "f5ac6789-cd89-474c-bfe4-4db4b2276603",
+      "name": "Logitech G213 Prodigy Gaming Keyboard, LIGHTSYNC RGB Backlit Keys, Spill-Resistant, Customizable Keys, Dedicated Multi-Media Keys – Black",
+      "brand": "Logitech",
+      "price": 3000,
+      "category": "accessories",
+      "subcategory": "Keyboard",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61dAFDD05RL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NIjLGSF1L._AC_SL1500_.jpg"
+      ],
+      "description": "<h3>⌨️ <strong>لوحة المفاتيح Logitech G213 Prodigy – أداء احترافي وإضاءة مذهلة</strong></h3><h4>🌈 <strong>إضاءة مذهلة بـ 5 مناطق قابلة للتخصيص</strong></h4><ul><li>اختر من بين <strong>أكثر من 16.8 مليون لون</strong> لتخصيص كل منطقة على حدة</li><li>يمكن تغيير الألوان لتتناسب مع الإعدادات أو الألعاب أو حتى ذوقك الشخصي</li><li>مزامنة الإضاءة مع باقي أجهزة Logitech G باستخدام <strong>Logitech Gaming Software</strong></li><li>تصميم يمنع تسرب الضوء من جوانب الأزرار، مما يركّز الإضاءة على الحروف لتسهيل الرؤية في الظلام</li></ul><h4>🖐️ <strong>راحة ومتانة تدوم طويلًا</strong></h4><ul><li>تصميم <strong>كامل الحجم</strong> مناسب للألعاب والعمل</li><li>هيكل نحيف وعصري، مقاوم لانسكاب السوائل والفتات والأوساخ</li><li><strong>مسند يد مدمج</strong> وأرجل قابلة للتعديل لضبط الوضعية المثالية للراحة خلال جلسات اللعب الطويلة</li></ul><h4>⚙️ <strong>أداء محسن وتجاوب فائق السرعة</strong></h4><ul><li>مفاتيح مصممة لتوفير شعور لمسي مميز وسرعة استجابة فائقة</li><li><strong>أسرع بأربع مرات</strong> من لوحات المفاتيح العادية</li><li><strong>تقنية Anti-Ghosting</strong> لضمان استجابة دقيقة عند الضغط على عدة مفاتيح في نفس الوقت</li></ul><h4>🎵 <strong>أزرار وسائط متعددة مخصصة</strong></h4><ul><li>تحكم فوري بالموسيقى والفيديو دون الخروج من اللعبة</li><li>أزرار لتشغيل/إيقاف الوسائط، كتم الصوت، التحكم بالصوت، وتخطي المسارات بكل سهولة</li></ul><h4>🛠️ <strong>قابلة للتخصيص بالكامل مع برنامج Logitech Gaming Software</strong></h4><ul><li>تحكم كامل في إضاءة الـ RGB</li><li>إمكانية برمجة مفاتيح الوظائف (F1-F12) لتنفيذ أوامر متعددة</li><li>تخصيص شامل لتجربة استخدام أكثر راحة وفعالية</li></ul><p><br></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-10T00:25:55.730Z",
+      "wholesaleInfo": {
+        "supplierName": "Logitech Egypt",
+        "supplierPhone": "01044556677",
+        "supplierEmail": "logitech@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 2500,
+        "minimumOrderQuantity": 2,
+        "quantity": 18,
+        "notes": "لوحة مفاتيح ألعاب احترافية"
+      }
+    },
+    {
+      "id": "f0298263-8a2f-413b-a07f-0678b8df5981",
+      "name": "REDRAGON H510 Zeus 2 Gaming Headset - 7.1 Surround Sound - Noice Cancelation Microphone - Detchable Microphone - Black",
+      "brand": "Redragon",
+      "price": 1800,
+      "category": "accessories",
+      "subcategory": "Headset",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/61Wz5JEKCKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61RSCFM84fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ISl4EsftL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61bImZNNXhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613t1jlpwjL._AC_SL1500_.jpg"
+      ],
+      "description": "<h3>🎧 <strong>سماعة Redragon H510 – صوت محيطي وتجربة غامرة</strong></h3><h4>🔍 <strong>المواصفات الأساسية:</strong></h4><ul><li><strong>العلامة التجارية:</strong> Redragon</li><li><strong>اللون:</strong> أسود</li><li><strong>نوع السماعة:</strong> فوق الأذن (Over-Ear)</li><li><strong>التحكم بالضوضاء:</strong> عزل ضوضاء سلبي (Passive Noise Cancellation)</li><li><li><strong>التوصيل:</strong> سلكي – عبر منفذ <strong>3.5mm Jack</strong></li><li><strong>تقنية الاتصال:</strong> XLR Connector</li><li><strong>اسم الموديل:</strong> H510</li></ul><h4>📦 <strong>محتويات العلبة:</strong></h4><ul><li>كُتيب الاستخدام</li><li>وسائد أذن إضافية</li><li>حقيبة حماية</li><li>كابل التوصيل</li></ul><h4>✅ <strong>المميزات:</strong></h4><ul><li><strong>تصميم مريح فوق الأذن</strong> يوفر راحة مثالية لجلسات اللعب الطويلة</li><li><strong>عزل ضوضاء فعّال</strong> بفضل التصميم المحكم الذي يقلل من التشويش الخارجي</li><li><strong>جودة صوت عالية الدقة</strong> بفضل مكونات احترافية وتجربة صوت محيطي غامرة</li><li><strong>مواد متينة</strong> تضمن عمرًا طويلاً ومتانة أثناء الاستخدام المكثف</li><li><strong>ملحقات مرفقة</strong> لتوفير تجربة استخدام شاملة ومحترفة</li></ul><p><strong>🎮 مثالية للألعاب، المكالمات، والمونتاج – Redragon H510 تجمع بين الأداء والراحة بجودة استثنائية.</strong></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-10T00:35:06.568Z",
+      "wholesaleInfo": {
+        "supplierName": "sigma",
+        "supplierPhone": "01080027827",
+        "supplierEmail": "10",
+        "supplierLocation": "1200",
+        "purchasePrice": 4000,
+        "minimumOrderQuantity": 1,
+        "quantity": 12,
+        "notes": ""
+      }
+    },
+    {
+      "id": "338c3a6e-02d4-499a-b89b-9ee023860949",
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "price": 12000,
+      "category": "desktop",
+      "subcategory": "CPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhphbajo1TLe4rTDk_57b9vjD1Zz0svjXgg&s"
+      ],
+      "description": "<p>AMD Ryzen 9 7950X مع 16 نواة و 32 خيط</p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T09:49:26.904Z",
+      "wholesaleInfo": {
+        "supplierName": "سس",
+        "supplierPhone": "010244994",
+        "supplierEmail": "بلي",
+        "supplierLocation": "سشسيؤ",
+        "purchasePrice": 5,
+        "minimumOrderQuantity": 50,
+        "notes": "",
+        "purchasedQuantity": 5
+      }
+    },
+    {
+      "id": "9e45967a-218c-4a10-9a85-eb8c5b5f28ad",
+      "name": "Intel Core i7-14700KF",
+      "brand": "Intel",
+      "price": 14000,
+      "category": "desktop",
+      "subcategory": "CPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://elmatjr.com/wp-content/uploads/2024/04/Intel-Core-i7-14700KF.jpg"
+      ],
+      "description": "<p><strong>المعالج: Intel Core i7-14700KF</strong></p><p><br></p><p><br></p><ol><li><strong>المعمارية:</strong> Raptor Lake – الجيل الرابع عشر من إنتل</li><li><strong>عدد الأنوية:</strong> 20 نواة (8 أنوية أداء P-Cores + 12 أنوية كفاءة E-Cores)</li><li><strong>عدد الخيوط (Threads):</strong> 28 خيط معالجة</li><li><strong>السرعة الأساسية:</strong> 3.4GHz</li><li><strong>السرعة القصوى:</strong> تصل إلى 5.6GHz مع تقنية Intel® Turbo Boost Max 3.0</li><li><strong>السوكيت:</strong> LGA 1700</li><li><strong>الذاكرة المدعومة:</strong> DDR4 حتى 3200MHz وDDR5 حتى 5600MHz</li><li><strong>الكاش:</strong></li><li>L2 Cache: 28MB</li><li>L3 Cache: 33MB</li><li><strong>مفتوح لكسر السرعة (Unlocked):</strong> نعم</li><li><strong>كرت شاشة مدمج:</strong> غير مدمج (يتطلب بطاقة رسومية منفصلة)</li><li><strong>دعم تقنيات:</strong></li><li>Intel® Thread Director</li><li>Intel® Deep Learning Boost</li><li>Intel® Adaptive Boost Technology</li><li><strong>الاستطاعة الحرارية (TDP):</strong> 125W (قد تصل إلى أكثر في وضع التربو)</li></ol>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T09:52:17.792Z",
+      "wholesaleInfo": {
+        "supplierName": "Intel Egypt",
+        "supplierPhone": "01087654321",
+        "supplierEmail": "intel@egypt.com",
+        "supplierLocation": "الإسكندرية",
+        "purchasePrice": 12000,
+        "minimumOrderQuantity": 1,
+        "quantity": 12,
+        "notes": "معالج إنتل الجيل الرابع عشر",
+        "purchasedQuantity": 400
+      }
+    },
+    {
+      "id": "67076607-cb60-48d0-a7cc-293e0856dcb4",
+      "name": "HP Laptop I3-1315U",
+      "brand": "HP",
+      "price": 9500,
+      "category": "laptop",
+      "subcategory": "Core i3",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/21/7706311/1.jpg?8886"
+      ],
+      "description": "<h2>💻 <strong>HP Laptop 15-fd0033ne</strong> – أنيق وعملي</h2><h2><strong>المواصفات الفنية:</strong></h2><ol><li>🔹 <strong>المعالج:</strong> Intel® Core™ i3-1315U – الجيل الثالث عشر</li><li>🔹 <strong>الرام:</strong> 4 جيجابايت</li><li>🔹 <strong>التخزين:</strong> 256 جيجابايت SSD</li><li>🔹 <strong>كرت الشاشة:</strong> Intel® UHD Graphics</li><li>🔹 <strong>الشاشة:</strong> 15.6 بوصة – FHD (دقة 1920 × 1080)</li><li>🔹 <strong>نظام التشغيل:</strong> DOS (بدون نظام تشغيل مثبت)</li><li>🔹 <strong>اللون:</strong> فضي (Silver)</li></ol><p><br></p><p><strong>مميزات إضافية:</strong></p><p><br></p><p><br></p><ol><li>تصميم أنيق وخفيف الوزن</li><li>أداء مناسب للاستخدام اليومي والدراسة</li><li>سعة تخزين سريعة من نوع SSD</li></ol>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T09:55:21.991Z",
+      "wholesaleInfo": {
+        "supplierName": "HP Egypt",
+        "supplierPhone": "01098765432",
+        "supplierEmail": "hp@egypt.com",
+        "supplierLocation": "الجيزة",
+        "purchasePrice": 7500,
+        "minimumOrderQuantity": 1,
+        "quantity": 8,
+        "notes": "لابتوب HP للاستخدام المكتبي",
+        "purchasedQuantity": 4500
+      }
+    },
+    {
+      "id": "15e474ce-1fe9-4b96-835b-d253e49af592",
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "brandImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Generic_brand_logo.svg/1200px-Generic_brand_logo.svg.png",
+      "price": 14000,
+      "category": "desktop",
+      "subcategory": "CPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhphbajo1TLe4rTDk_57b9vjD1Zz0svjXgg&s"
+      ],
+      "description": "AMD Ryzen 9 7950X مع 16 نواة و 32 خيط",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-04T10:53:38.669Z",
+      "wholesaleInfo": {
+        "supplierName": "AMD Egypt",
+        "supplierPhone": "01012345678",
+        "supplierEmail": "amd@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 12000,
+        "minimumOrderQuantity": 1,
+        "quantity": 10,
+        "notes": "معالج AMD عالي الأداء"
+      }
+    },
+    {
+      "id": "b428bccd-f121-4a69-bc57-0448a7a3f8e3",
+      "name": "شاشة ألعاب UltraGear حجم 27 بوصة وتحديث 165 هرتز",
+      "brand": "LG",
+      "price": 7000,
+      "category": "monitor",
+      "subcategory": "27-inch",
+      "color": "#000000",
+      "size": "",
+      "images": [
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-1.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-5.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-6.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07580125/gallery/D-4.jpg"
+      ],
+      "description": "<h3>🖥️ <strong>شاشة ألعاب احترافية 27 بوصة – QHD</strong></h3><p><strong>المواصفات الفنية:</strong></p><ul><li>📏 <strong>المقاس:</strong> 27 بوصة</li><li>🖼️ <strong>الدقة:</strong> QHD (2560 × 1440)</li><li>🔄 <strong>معدل التحديث:</strong> 165 هرتز</li><li>⚡ <strong>زمن الاستجابة:</strong> 1 مللي ثانية (GtG)</li><li>🔍 <strong>لوحة العرض:</strong> IPS</li><li>🌈 <strong>HDR:</strong> تدعم HDR10</li><li>🎨 <strong>نطاق الألوان:</strong> sRGB بنسبة 99% (المعدل النموذجي)</li></ul><p><strong>التقنيات المدعومة:</strong></p><p><br></p><ul><li>✅ <strong>تقنية AMD FreeSync™ Premium</strong></li><li>✅ <strong>متوافقة مع تقنية NVIDIA® G-SYNC®</strong></li></ul><p><br></p>",
+      "specialOffer": true,
+      "discountPercentage": 29,
+      "offerEndsAt": "2025-12-31T23:59:59.000Z",
+      "isArchived": false,
+      "createdAt": "2025-06-09T16:03:25.305Z",
+      "wholesaleInfo": {
+        "supplierName": "LG Egypt",
+        "supplierPhone": "01011223344",
+        "supplierEmail": "lg@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 5500,
+        "minimumOrderQuantity": 1,
+        "quantity": 20,
+        "notes": "شاشة ألعاب احترافية"
+      }
+    },
+    {
+      "id": "cfcf862a-ed6c-4057-b3b5-82ff59706ecd",
+      "name": "شاشة ألعاب OLED منحنية UltraGear مقاس 45 بوصة بدقة WQHD",
+      "brand": "LG",
+      "price": 22000,
+      "category": "monitor",
+      "subcategory": "45-inch",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-1.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-5.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-4.jpg",
+        "https://www.lg.com/ae_ar/images/consumer-monitors/md07567837/D-3.jpg"
+      ],
+      "description": "<h2><strong>🖥️ المواصفات الأساسية:</strong></h2><ol><li>الحجم: <strong>45 بوصة</strong></li><li>النوع: <strong>WQHD OLED</strong></li><li>الدقة: <strong>3440 × 1440</strong></li><li>نسبة العرض إلى الارتفاع: <strong>21:9</strong></li><li>الانحناء: <strong>منحني بزاوية 800R</strong></li><li>معدل التحديث: <strong>240Hz</strong></li><li>زمن الاستجابة: <strong>0.03 مللي ثانية (Gray to Gray - GTG)</strong></li><li>نسبة التباين: <strong>1,500,000:1</strong></li><li>⚙️ <strong>تقنيات العرض المدعومة:</strong></li><li>✅ <strong>NVIDIA G-Sync® Compatible</strong></li><li>✅ <strong>تقنية AMD FreeSync™ Premium</strong></li></ol>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T16:26:37.035Z",
+      "wholesaleInfo": {
+        "supplierName": "LG Egypt",
+        "supplierPhone": "01011223344",
+        "supplierEmail": "lg@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 18000,
+        "minimumOrderQuantity": 1,
+        "quantity": 5,
+        "notes": "شاشة OLED منحنية فاخرة"
+      }
+    },
+    {
+      "id": "504aa8bd-a6d7-4535-a06d-e66ce74a48bb",
+      "name": "Gigabyte GeForce RTX 4090 Gaming OC 24G Graphics Card, 3X WINDFORCE Fans, 24GB 384-bit GDDR6X, GV-N4090GAMING OC-24GD Video Card",
+      "brand": "NVIDIA",
+      "price": 180750,
+      "category": "desktop",
+      "subcategory": "GPU",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/711vU2IrEuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713fzuOGfeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616BIYVLsQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71R1xDmLbYL._AC_SL1500_.jpg"
+      ],
+      "description": "<ul><li>Capacity: 512GB</li><li>Read speed up to 2500MB/s</li><li>PCIe 3.0 NVMe Technology</li><li>3D NAND technology helps to develop higher capacity</li><li>and performance.</li><li>Easy Installation</li><li>Widely Compatible</li><li>Format: M.2 2280</li><li>Interface: PCIe 3.0</li><li>Aligned Random Read: up to 55K IOPs</li><li>Aligned Random Write: up to 225K IOPs</li><li>Sequential Read (CDM): up to 2500 MB</li></ul>",
+      "specialOffer": true,
+      "discountPercentage": 17,
+      "offerEndsAt": "2025-12-31T23:59:59.000Z",
+      "isArchived": false,
+      "createdAt": "2025-06-09T16:58:19.095Z",
+      "wholesaleInfo": {
+        "supplierName": "Gigabyte Egypt",
+        "supplierPhone": "01055667788",
+        "supplierEmail": "gigabyte@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 150000,
+        "minimumOrderQuantity": 1,
+        "quantity": 3,
+        "notes": "كرت شاشة RTX 4090 فاخر"
+      }
+    },
+    {
+      "id": "90f0396a-1fe9-4b96-835b-d253e49af592",
+      "name": "Hiksemi هارد ديسك ويف، PCIe 3.0، NVMe M.2، SSD، داخلي للكمبيوتر الشخصي، 512 جيجا، أسود، HS-SSD-WAVE(P)",
+      "brand": "Hiksemi",
+      "price": 2500,
+      "category": "storage",
+      "subcategory": "M.2 SSD",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/37/8858721/1.jpg?2942",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/37/8858721/2.jpg?2942"
+      ],
+      "description": "<h2>مواصفات المنتج</h2><ul><li>Capacity: 512GB</li><li>Read speed up to 2500MB/s</li><li>PCIe 3.0 NVMe Technology</li><li>3D NAND technology helps to develop higher capacity</li><li>and performance.</li><li>Easy Installation</li><li>Widely Compatible</li><li>Format: M.2 2280</li><li>Interface: PCIe 3.0</li><li>Aligned Random Read: up to 55K IOPs</li><li>Aligned Random Write: up to 225K IOPs</li><li>Sequential Read (CDM): up to 2500 MB</li></ul><p><br></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T22:08:24.326Z",
+      "wholesaleInfo": {
+        "supplierName": "Hiksemi Egypt",
+        "supplierPhone": "01099887766",
+        "supplierEmail": "hiksemi@egypt.com",
+        "supplierLocation": "الإسكندرية",
+        "purchasePrice": 2000,
+        "minimumOrderQuantity": 5,
+        "quantity": 50,
+        "notes": "SSD سريع للكمبيوتر"
+      }
+    },
+    {
+      "id": "c639bc2e-007c-499c-91bf-7ae3de33c191",
+      "name": "MSI thin B12UCX- CPU Alder Lake i5 12450H- RAM 8G DDR5 (3200MHz) - 512GB NVMe PCIe SSD- VGA RTX 2050 GDDR6 4GB- FHD 144Hz IPS -Blue Backlit 2 Yr - Cosmos Gray-( 9S7-16R831-2616 )",
+      "brand": "MSI",
+      "price": 31000,
+      "category": "laptop",
+      "subcategory": "Core i5 12Gen",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/6894821/1.jpg?8723",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/6894821/3.jpg?8723",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/19/6894821/4.jpg?1439"
+      ],
+      "description": "<h3>💻 <strong>لابتوب MSI THIN B12UCX</strong></h3><p><strong>الموديل:</strong> 9S7–16R831–2616</p><p><strong>اللون:</strong> Cosmos Gray</p><p><br></p><p><br></p><p><br></p><h3>🔧 <strong>المواصفات التقنية</strong></h3><ul><li><strong>المعالج (CPU):</strong></li><li>حتى الجيل الثاني عشر من Intel® Core™ i7</li><li><strong>كرت الشاشة (GPU):</strong></li><li>NVIDIA® GeForce RTX™ 2050 – سعة 4 جيجابايت GDDR6</li><li><strong>الذاكرة (RAM):</strong></li><li>DDR4 بسرعة 3200MHz – قابل للترقية حتى 64 جيجابايت</li><li><strong>الشاشة:</strong></li><li>15.6 بوصة – FHD (1920 × 1080)</li><li><strong>نظام التشغيل:</strong></li><li>Windows 11 Home</li></ul><h3>💾 <strong>التخزين</strong></h3><ul><li>منفذ SSD نوع M.2 (NVMe PCIe Gen4)</li><li>منفذ 2.5 بوصة لـ SATA HDD</li></ul><h3>📦 <strong>محتويات العبوة</strong></h3><ul><li>1 × جهاز لابتوب</li><li>ملحقات التعبئة القياسية</li></ul><h3>ℹ️ <strong>تفاصيل إضافية</strong></h3><ul><li><strong>بلد الصنع:</strong> الصين</li><li><strong>المادة الأساسية:</strong> بلاستيك</li><li><strong>الشهادات:</strong> Organic</li><li><strong>نوع الضمان:</strong> صيانة من قبل البائع</li></ul>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T22:18:30.838Z",
+      "wholesaleInfo": {
+        "supplierName": "MSI Egypt",
+        "supplierPhone": "01033445566",
+        "supplierEmail": "msi@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 26000,
+        "minimumOrderQuantity": 1,
+        "quantity": 6,
+        "notes": "لابتوب ألعاب MSI",
+        "purchasedQuantity": 566
+      }
+    },
+    {
+      "id": "1ae1b95d-5272-40b0-b53a-217d93532060",
+      "name": "وحده تخزين SSD 870 EVO SATA III مقاس 2.5 بوصة",
+      "brand": "SAMSUNG",
+      "price": 2200,
+      "category": "storage",
+      "subcategory": "SATA SSD",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/ae_ar/mz-77e250bw/gallery/ae-ar-870-evo-sata-3-2-5-ssd-mz-77e250bw-537759192?$684_547_PNG$"
+      ],
+      "description": "<h3>💾 <strong>وحدة تخزين SSD – Samsung 870 EVO</strong></h3><p><strong>النوع:</strong> SATA III – <strong>المقاس:</strong> 2.5 بوصة – <strong>السعة:</strong> 256 جيجابايت</p><p><br></p><p><br></p><h3>⭐ <strong>المواصفات الأساسية:</strong></h3><ul><li>🧠 <strong>النوع:</strong> SSD داخلي</li><li>📏 <strong>المقاس:</strong> 2.5 بوصة</li><li>⚙️ <strong>واجهة التوصيل:</strong> SATA III (6 Gb/s)</li><li>🚀 <strong>السرعة:</strong></li><li>قراءة حتى 560 ميجابايت/ثانية</li><li>كتابة حتى 530 ميجابايت/ثانية</li><li>💾 <strong>السعة التخزينية:</strong> 256 جيجابايت</li><li>🔒 <strong>تقنيات الأمان:</strong> دعم لتشفير AES 256-bit</li><li>🧪 <strong>الاعتمادية:</strong> حتى 150TBW (متوسط عمر افتراضي ممتاز)</li></ul><h3>✅ <strong>المميزات:</strong></h3><ul><li>أداء فائق وسرعة استجابة عالية</li><li>مثالي لتسريع نظام التشغيل والألعاب والبرامج</li><li>استهلاك منخفض للطاقة</li><li>تصميم متين مقاوم للصدمات والاهتزاز</li><li>متوافق مع معظم أجهزة الكمبيوتر المكتبية والمحمولة</li></ul>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-09T23:22:15.823Z",
+      "wholesaleInfo": {
+        "supplierName": "Samsung Egypt",
+        "supplierPhone": "01077889900",
+        "supplierEmail": "samsung@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 1800,
+        "minimumOrderQuantity": 3,
+        "quantity": 30,
+        "notes": "SSD Samsung عالي الجودة"
+      }
+    },
+    {
+      "id": "f5ac6789-cd89-474c-bfe4-4eb4b2276603",
+      "name": "Razer Basilisk V3 - Wired Customisable Gaming Mouse (10+1 Programmable Buttons, HyperScroll Tilt Wheel, 11 Chroma RGB Lighting Zones, Optical Mouse Switches, Focus+ 26K DPI Optical Sensor) Black",
+      "brand": "Razer",
+      "price": 3000,
+      "category": "accessories",
+      "subcategory": "Mouse",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/61AcT0ZuO3L.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "https://m.media-amazon.com/images/I/61F+cwAobkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Y-Zb0WVtL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61apxCWQUgL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LmB1Vu1cL._AC_SL1500_.jpg"
+      ],
+      "description": "<h3>🎮 <strong>ماوس الألعاب Razer Basilisk V3 – تحكّم غير محدود بدقة احترافية</strong></h3><h4>🔘 <strong>10+1 زر قابل للبرمجة لتنفيذ لا نهائي للأوامر</strong></h4><p>قم بتخصيص كل ما تحتاجه من أوامر ماكرو ووظائف ثانوية عبر <strong>11 زرًا قابلاً للبرمجة</strong>، بما في ذلك الزر الجانبي المتعدد الوظائف الشهير.</p><p> مثالي لتفعيل أوامر مثل:</p><p> 🎙️ الضغط للتحدث – 📍 إرسال إشارة – ⚔️ التبديل بين الأسلحة والمزيد.</p><p><br></p><h4>🌀 <strong>عجلة تمرير Razer HyperScroll Tilt Wheel</strong></h4><ul><li><strong>الوضع السلس (Free-Spin):</strong> التمرير بسرعة عبر المحتوى الطويل</li><li><strong>الوضع اللمسي (Tactile):</strong> تحكم دقيق مع استجابة ملموسة، مثالي لتبديل المهارات أو الأسلحة</li></ul><h4>🌈 <strong>إضاءة Chroma RGB بـ 11 منطقة مختلفة</strong></h4><ul><li>أكثر من <strong>16.8 مليون لون</strong></li><li>إضاءة كاملة تحت الماوس</li><li>تفاعل ديناميكي مع أكثر من <strong>150 لعبة</strong> مدعومة من Razer Chroma</li></ul><h4>🖐️ <strong>تصميم مريح أيقوني مع مسند للإبهام</strong></h4><p>تصميم محبوب من ملايين المستخدمين حول العالم</p><p> ✅ دعم مريح لليد</p><p> ✅ أزرار مصممة لوصول سريع وسهل</p><p> ✅ مثالي لجلسات اللعب الطويلة</p><h4>⚡ <strong>مفاتيح ضوئية Razer الجيل الثاني</strong></h4><ul><li>سرعة استجابة مذهلة تبلغ <strong>0.2 مللي ثانية</strong></li><li>عمر يصل إلى <strong>70 مليون نقرة</strong></li><li>دقة فائقة بدون نقرات خاطئة</li></ul><p><br></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-10T00:22:16.409Z",
+      "wholesaleInfo": {
+        "supplierName": "Razer Egypt",
+        "supplierPhone": "01022334455",
+        "supplierEmail": "razer@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 2500,
+        "minimumOrderQuantity": 2,
+        "quantity": 25,
+        "notes": "ماوس ألعاب احترافي"
+      }
+    },
+    {
+      "id": "f5ac6789-cd89-474c-bfe4-4db4b2276603",
+      "name": "Logitech G213 Prodigy Gaming Keyboard, LIGHTSYNC RGB Backlit Keys, Spill-Resistant, Customizable Keys, Dedicated Multi-Media Keys – Black",
+      "brand": "Logitech",
+      "price": 3000,
+      "category": "accessories",
+      "subcategory": "Keyboard",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61dAFDD05RL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NIjLGSF1L._AC_SL1500_.jpg"
+      ],
+      "description": "<h3>⌨️ <strong>لوحة المفاتيح Logitech G213 Prodigy – أداء احترافي وإضاءة مذهلة</strong></h3><h4>🌈 <strong>إضاءة مذهلة بـ 5 مناطق قابلة للتخصيص</strong></h4><ul><li>اختر من بين <strong>أكثر من 16.8 مليون لون</strong> لتخصيص كل منطقة على حدة</li><li>يمكن تغيير الألوان لتتناسب مع الإعدادات أو الألعاب أو حتى ذوقك الشخصي</li><li>مزامنة الإضاءة مع باقي أجهزة Logitech G باستخدام <strong>Logitech Gaming Software</strong></li><li>تصميم يمنع تسرب الضوء من جوانب الأزرار، مما يركّز الإضاءة على الحروف لتسهيل الرؤية في الظلام</li></ul><h4>🖐️ <strong>راحة ومتانة تدوم طويلًا</strong></h4><ul><li>تصميم <strong>كامل الحجم</strong> مناسب للألعاب والعمل</li><li>هيكل نحيف وعصري، مقاوم لانسكاب السوائل والفتات والأوساخ</li><li><strong>مسند يد مدمج</strong> وأرجل قابلة للتعديل لضبط الوضعية المثالية للراحة خلال جلسات اللعب الطويلة</li></ul><h4>⚙️ <strong>أداء محسن وتجاوب فائق السرعة</strong></h4><ul><li>مفاتيح مصممة لتوفير شعور لمسي مميز وسرعة استجابة فائقة</li><li><strong>أسرع بأربع مرات</strong> من لوحات المفاتيح العادية</li><li><strong>تقنية Anti-Ghosting</strong> لضمان استجابة دقيقة عند الضغط على عدة مفاتيح في نفس الوقت</li></ul><h4>🎵 <strong>أزرار وسائط متعددة مخصصة</strong></h4><ul><li>تحكم فوري بالموسيقى والفيديو دون الخروج من اللعبة</li><li>أزرار لتشغيل/إيقاف الوسائط، كتم الصوت، التحكم بالصوت، وتخطي المسارات بكل سهولة</li></ul><h4>🛠️ <strong>قابلة للتخصيص بالكامل مع برنامج Logitech Gaming Software</strong></h4><ul><li>تحكم كامل في إضاءة الـ RGB</li><li>إمكانية برمجة مفاتيح الوظائف (F1-F12) لتنفيذ أوامر متعددة</li><li>تخصيص شامل لتجربة استخدام أكثر راحة وفعالية</li></ul><p><br></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-10T00:25:55.730Z",
+      "wholesaleInfo": {
+        "supplierName": "Logitech Egypt",
+        "supplierPhone": "01044556677",
+        "supplierEmail": "logitech@egypt.com",
+        "supplierLocation": "القاهرة",
+        "purchasePrice": 2500,
+        "minimumOrderQuantity": 2,
+        "quantity": 18,
+        "notes": "لوحة مفاتيح ألعاب احترافية"
+      }
+    },
+    {
+      "id": "f0298263-8a2f-413b-a07f-0678b8df5981",
+      "name": "REDRAGON H510 Zeus 2 Gaming Headset - 7.1 Surround Sound - Noice Cancelation Microphone - Detchable Microphone - Black",
+      "brand": "Redragon",
+      "price": 1800,
+      "category": "accessories",
+      "subcategory": "Headset",
+      "color": "",
+      "size": "",
+      "images": [
+        "https://m.media-amazon.com/images/I/61Wz5JEKCKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61RSCFM84fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ISl4EsftL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61bImZNNXhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613t1jlpwjL._AC_SL1500_.jpg"
+      ],
+      "description": "<h3>🎧 <strong>سماعة Redragon H510 – صوت محيطي وتجربة غامرة</strong></h3><h4>🔍 <strong>المواصفات الأساسية:</strong></h4><ul><li><strong>العلامة التجارية:</strong> Redragon</li><li><strong>اللون:</strong> أسود</li><li><strong>نوع السماعة:</strong> فوق الأذن (Over-Ear)</li><li><strong>التحكم بالضوضاء:</strong> عزل ضوضاء سلبي (Passive Noise Cancellation)</li><li><li><strong>التوصيل:</strong> سلكي – عبر منفذ <strong>3.5mm Jack</strong></li><li><strong>تقنية الاتصال:</strong> XLR Connector</li><li><strong>اسم الموديل:</strong> H510</li></ul><h4>📦 <strong>محتويات العلبة:</strong></h4><ul><li>كُتيب الاستخدام</li><li>وسائد أذن إضافية</li><li>حقيبة حماية</li><li>كابل التوصيل</li></ul><h4>✅ <strong>المميزات:</strong></h4><ul><li><strong>تصميم مريح فوق الأذن</strong> يوفر راحة مثالية لجلسات اللعب الطويلة</li><li><strong>عزل ضوضاء فعّال</strong> بفضل التصميم المحكم الذي يقلل من التشويش الخارجي</li><li><strong>جودة صوت عالية الدقة</strong> بفضل مكونات احترافية وتجربة صوت محيطي غامرة</li><li><strong>مواد متينة</strong> تضمن عمرًا طويلاً ومتانة أثناء الاستخدام المكثف</li><li><strong>ملحقات مرفقة</strong> لتوفير تجربة استخدام شاملة ومحترفة</li></ul><p><strong>🎮 مثالية للألعاب، المكالمات، والمونتاج – Redragon H510 تجمع بين الأداء والراحة بجودة استثنائية.</strong></p>",
+      "specialOffer": false,
+      "isArchived": false,
+      "createdAt": "2025-06-10T00:35:06.568Z",
+      "wholesaleInfo": {
+        "supplierName": "sigma",
+        "supplierPhone": "01080027827",
+        "supplierEmail": "10",
+        "supplierLocation": "1200",
+        "purchasePrice": 4000,
+        "minimumOrderQuantity": 1,
+        "quantity": 12,
+        "notes": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ─── Admin Config ─────────────────────────────────────────────────────────
+    match /admin_config/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Admin Sessions ───────────────────────────────────────────────────────
+    match /admin_sessions/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Products ─────────────────────────────────────────────────────────────
+    match /products/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Orders ───────────────────────────────────────────────────────────────
+    match /orders/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Cashier Sales ────────────────────────────────────────────────────────
+    match /cashier-sales/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Dashboard Users ──────────────────────────────────────────────────────
+    match /dashboard_users/{userId} {
+      allow read, write: if true;
+    }
+
+    // ─── Employees & Attendance ───────────────────────────────────────────────
+    match /employees/{document} {
+      allow read, write: if true;
+    }
+    match /attendance/{document} {
+      allow read, write: if true;
+    }
+    match /attendance_summaries/{document} {
+      allow read, write: if true;
+    }
+    match /salary_advances/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Coupons ──────────────────────────────────────────────────────────────
+    match /coupons/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Site Config (تخصيص الموقع) ───────────────────────────────────────────
+    match /site_config/{document} {
+      allow read, write: if true;
+    }
+
+    // ─── Analytics ────────────────────────────────────────────────────────────
+    match /page_views/{document} {
+      allow read, write: if true;
+    }
+    match /visitor_sessions/{document} {
+      allow read, write: if true;
+    }
+    match /daily_stats/{document} {
+      allow read, write: if true;
+    }
+    match /page_stats/{document} {
+      allow read, write: if true;
+    }
+    // ─── Catalog Version Metadata ─────────────────────────────────────────────
+    // Stores _meta/catalog { version, updatedAt } — cheap ETag for cache invalidation.
+    // 1 read per session tells clients if the product catalog changed.
+    match /_meta/{document} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+  }
+}

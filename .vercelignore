@@ -1,0 +1,30 @@
+# Version Control
+.git
+.github
+
+# Agent & Temp
+.agent
+.vercel
+*.log
+vite.config.ts.timestamp-*
+
+# Dependencies & Build Outputs
+node_modules
+dist
+dist-ssr
+
+# Firebase Backend Services (Deployed separately via Firebase CLI)
+functions
+dataconnect
+firebase.json
+firebase.rules
+firestore.indexes.json
+.firebaserc
+database.rules.json
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local

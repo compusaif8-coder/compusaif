@@ -1,0 +1,52 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // ─── 1. صور المنتجات والفئات والبانرات والشعار (قراءة عامة + رفع آمن) ───
+    match /products/{allPaths=**} {
+      allow read: if true;
+      allow write: if request.resource == null || (
+        request.resource.size < 20 * 1024 * 1024 &&
+        request.resource.contentType.matches('image/.*')
+      );
+    }
+
+    match /categories/{allPaths=**} {
+      allow read: if true;
+      allow write: if request.resource == null || (
+        request.resource.size < 20 * 1024 * 1024 &&
+        request.resource.contentType.matches('image/.*')
+      );
+    }
+
+    match /settings/{allPaths=**} {
+      allow read: if true;
+      allow write: if request.resource == null || (
+        request.resource.size < 20 * 1024 * 1024 &&
+        request.resource.contentType.matches('image/.*')
+      );
+    }
+
+    // ─── 2. إيصالات الدفع والمستندات (صور و PDF) ───
+    match /receipts/{allPaths=**} {
+      allow read: if true;
+      allow write: if request.resource == null || (
+        request.resource.size < 15 * 1024 * 1024 &&
+        (request.resource.contentType.matches('image/.*') || request.resource.contentType == 'application/pdf')
+      );
+    }
+
+    // ─── 3. القاعدة العامة لباقي المسارات مع فحص الحجم ونوع الملف ───
+    match /{allPaths=**} {
+      allow read: if true;
+      allow write: if request.resource == null || (
+        request.resource.size < 25 * 1024 * 1024 &&
+        (
+          request.resource.contentType.matches('image/.*') ||
+          request.resource.contentType.matches('video/.*') ||
+          request.resource.contentType == 'application/pdf'
+        )
+      );
+    }
+  }
+}

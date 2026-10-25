@@ -1,0 +1,305 @@
+{
+  "navigation": {
+    "store": "Store",
+    "admin": "Admin",
+    "cart": "Shopping Cart",
+    "search": "Search for products...",
+    "products": "Products",
+    "about": "About Us",
+    "locations": "Our Locations",
+    "careers": "Careers",
+    "home": "Home",
+    "followUs": "Follow Us",
+    "delivery": "Delivery",
+    "faq": "FAQ"
+  },
+  "filters": {
+    "sortBy": "Sort By",
+    "default": "Default",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "nameAsc": "Name: A to Z",
+    "nameDesc": "Name: Z to A",
+    "category": "Category",
+    "subcategory": "Subcategory",
+    "brand": "Brand",
+    "color": "Color",
+    "size": "Size",
+    "supplier": "Seller",
+    "allCategories": "All Categories",
+    "allSubcategories": "All Subcategories",
+    "allBrands": "All Brands",
+    "allColors": "All Colors",
+    "allSizes": "All Sizes",
+    "allSuppliers": "All Sellers",
+    "title": "Filters",
+    "priceRange": "Price Range",
+    "clearAll": "Clear All Filters",
+    "apply": "Apply Filters",
+    "selectCategoryFirst": "Please select a category first"
+    ,
+    "processor": "Processor",
+    "dedicatedGraphics": "Dedicated Graphics",
+    "onlyWithGPU": "Only products with dedicated GPU",
+    "allProcessors": "All Processors",
+    "allGPUs": "All GPUs",
+    "compatibleWith": "compatible with",
+    "noCompatibleProcessors": "No processors compatible with the selected graphics card",
+    "noProcessorsAvailable": "No processors available",
+    "noCompatibleGPUs": "No graphics cards compatible with the selected processor",
+    "noGPUsAvailable": "No graphics cards available",
+    "screenSize": "Screen Size",
+    "allScreenSizes": "All Screen Sizes",
+    "noScreenSizesAvailable": "No screen sizes available",
+    "filteredBy": "Filtered by",
+    "processorGeneration": "Generation",
+    "processorSeries": "Series",
+    "integratedGpu": "Integrated GPU",
+    "model": "Model"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details",
+    "price": "Price"
+  },
+
+  "suppliers": {
+    "title": "Our Suppliers",
+    "description": "Suppliers Information",
+    "supplierInfo": "Supplier Information",
+    "supplierInfoDescription": "Supplier Information Description"
+  },
+
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyTitle": "Your cart is empty",
+    "emptyDescription": "You haven't added any products to your cart yet",
+    "startShopping": "Start Shopping Now",
+    "browseProducts": "Browse Products",
+    "total": "Total",
+    "orderViaWhatsApp": "Order via WhatsApp",
+    "deliveryInfo": "Delivery Information",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "address": "Delivery Address",
+    "city": "City",
+    "notes": "Additional Notes",
+    "completeOrder": "Complete Order",
+    "fieldRequired": "This field is required",
+    "whatsappMessage": "When you click the \"Complete Order\" button, WhatsApp will open to send your order details to our delivery service",
+    "contactSoon": "We will contact you soon",
+    "customerInfo": "Customer Information",
+    "orderDetails": "Order Details",
+    "productId": "Product ID",
+    "quantity": "Quantity",
+    "price": "Price",
+    "totalAmount": "Total Amount",
+    "productAdded": "Product added to cart",
+    "whatWouldYouLikeToDo": "What would you like to do now?",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "viewCart": "View Cart",
+    "productAlreadyInCart": "This product is already in your cart",
+    "pleaseUpdateQuantity": "Please update the quantity from the cart page",
+    "alreadyInCart": "Already in Cart",
+    "confirmRemove": "Are you sure you want to remove this product from your cart?",
+    "confirmRemoveDescription": "This product will be removed from your cart. You can add it back later.",
+    "goToCart": "Go to Cart",
+    "addToCart": "Add to Cart",
+    "removeFromCart": "Remove from Cart",
+    "increase": "Increase",
+    "decrease": "Decrease",
+    "clearCart": "Clear Cart",
+    "clearCartConfirm": "Are you sure you want to clear all items from your cart?",
+    "cartCleared": "Cart cleared successfully",
+    "confirmClear": "Yes, Clear Cart"
+  },
+  "common": {
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "currency": "EGP",
+    "shareOnWhatsApp": "Share on WhatsApp",
+    "delete": "Delete",
+    "viewProduct": "View Product"
+  },
+  "products": {
+    "title": "Products",
+    "noResults": "No products match your search criteria",
+    "specialOffers": "Special Offers",
+    "specialOffer": "Special Offer",
+    "allProducts": "All Products",
+    "featured": "Featured Products",
+    "featuredSubtitle": "Explore our collection of high-quality products",
+    "viewMore": "View More",
+    "noProductsFound": "No products found",
+    "supplier": "Supplier",
+    "size": "Size",
+    "name": "Product name",
+    "color": "Color",
+    "category": "Category",
+    "description": "Description",
+    "brand": "Brand",
+    "price": "Price",
+    "specialPrice": "Special Price",
+    "originalPrice": "Original Price",
+    "discount": "Discount",
+    "specialOffersEndsIn": "Special Offer Ends In",
+    "off": "Off",
+    "suggestedProducts": "Suggested Products",
+    "product": "Product"
+  },
+  "hero": {
+    "title1": "Welcome to Our Store",
+    "description1": "Discover our new collections and exclusive offers",
+    "title2": "New Season Collection Arrivals",
+    "description2": "Check out the latest products in our store catalog",
+    "title3": "Special Discount Week",
+    "description3": "Save up to 50% on selected items this week only",
+    "shopNow": "Shop Now"
+  },
+  "specialOffers": {
+    "title": "Special Offers",
+    "viewAll": "View All",
+    "subtitle": "Discover our latest exclusive offers and discounts"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description": "We help emerging sellers reach their customers easily. Therefore, we won't charge any fees for adding products, but we ask that prices be reasonable to ensure everyone can shop."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We want to be the place that brings together emerging sellers and buyers. We sell products at wholesale and competitive prices, so everyone benefits. We believe that when we cooperate together, God will provide for us all."
+    },
+    "values": {
+      "title": "Our Values",
+      "support": {
+        "title": "Supporting Emerging Sellers",
+        "description": "We provide an opportunity for emerging sellers to reach their customers without any additional fees"
+      },
+      "affordable": {
+        "title": "Affordable Prices",
+        "description": "We ensure that prices are suitable for everyone to facilitate shopping"
+      },
+      "community": {
+        "title": "Cooperative Community",
+        "description": "We encourage cooperation between sellers and buyers to create a successful and thriving community"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "owner": {
+        "title": "Store Owner",
+        "description": "Website owner with extensive experience in technology"
+      },
+      "salesManager": {
+        "title": "Sales Manager",
+        "description": "Responsible for managing sales and developing marketing strategies"
+      },
+      "delivery": {
+        "title": "Delivery Manager",
+        "description": "Responsible for delivering orders and ensuring they arrive on time"
+      },
+      "wholesale": {
+        "title": "Wholesale Trader",
+        "description": "Responsible for product supply and wholesale trade"
+      }
+    },
+    "features": {
+      "computers": {
+        "title": "Computers and Laptops",
+        "description": "We offer a wide range of computers and laptops from the best global brands at competitive prices"
+      },
+      "accessories": {
+        "title": "Computer Accessories",
+        "description": "A variety of high-quality accessories such as headphones, keyboards, mice, and more"
+      },
+      "maintenance": {
+        "title": "Maintenance Service",
+        "description": "A specialized team for maintaining and repairing electronic devices with quality and speed guarantee"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Fast delivery service to all areas with guaranteed excellent product condition"
+      }
+    },
+    "contactWhatsApp": "Contact us on WhatsApp",
+    "whatsappMessage": "Hello, I'm interested in learning more about the electronics store",
+    "storeImage": "Our Store"
+  },
+  "locations": {
+    "title": "Our Locations",
+    "description": "Visit one of our store locations to experience our products in person. Our friendly team is ready to assist you with all your needs.",
+    "mainStore": "Main Store",
+    "mapPreview": "Map Preview",
+    "enterMapboxKey": "To display an interactive map of our store locations, please enter your Mapbox key.",
+    "getFreeKey": "You can get a free Mapbox key from mapbox.com"
+  },
+  "careers": {
+    "title": "Join Our Team",
+    "description": "We are always looking for talented individuals to grow with us. Explore our currently available positions below.",
+    "whyJoinUs": "Why Join Us",
+    "openPositions": "Open Positions",
+    "growth": "Growth Opportunities",
+    "benefits": "Competitive Benefits",
+    "inclusion": "Inclusive Work Environment",
+    "workLife": "Work-Life Balance",
+    "apply": "Apply Now",
+    "applyPosition": "Apply for This Position",
+    "responsibilities": "Responsibilities",
+    "requirements": "Requirements"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "aboutDescription": "We are committed to offering high-quality products with excellent customer service. Our mission is to make shopping an enjoyable experience for all customers.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "products": "Products",
+    "specialOffers": "Special Offers",
+    "about": "About Us",
+    "careers": "Careers",
+    "locations": "Our Locations",
+    "categories": "Categories",
+    "category1": "Clothing",
+    "category2": "Accessories",
+    "category3": "Electronics",
+    "category4": "Home Goods",
+    "contactUs": "Contact Us",
+    "address": "Revolution St. 2, off Petroleum St., El Marg, behind One Day Hospital, Cairo, Egypt",
+    "copyright": "All rights reserved",
+    "storeName": "Fashion Store"
+  },
+  "brands": {
+    "title": "Featured Brands"
+  },
+  "colors": {
+    "Black": "Black",
+    "White": "White",
+    "Red": "Red",
+    "Green": "Green",
+    "Blue": "Blue",
+    "Yellow": "Yellow",
+    "Purple": "Purple",
+    "Orange": "Orange",
+    "Pink": "Pink",
+    "Gray": "Gray",
+    "Brown": "Brown",
+    "Beige": "Beige",
+    "Navy": "Navy",
+    "Maroon": "Maroon",
+    "Teal": "Teal",
+    "Gold": "Gold",
+    "Silver": "Silver"
+  },
+  "user": {
+    "orders": "My Orders",
+    "settings": "Settings"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "signOut": "Sign Out"
+  }
+}
